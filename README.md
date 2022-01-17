@@ -1,4 +1,4 @@
-# 30-dias-de-html-e-css
+# 🎨 30 dias de HTML e CSS 🎨
 
 
 ## 🦸🏽‍♀️ Seja um dos contribuidores
