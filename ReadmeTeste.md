@@ -1,38 +1,27 @@
-primeiro dia, vamos começar com a primeira parte do seu site, então vamos fazer o menu por cima do nosso site, ele tem o que? tem o nome do nosso produto, e as sessões do nosso site.
+# 🎨 30 dias de HTML e CSS 🎨
 
-Quando começamos a codificar um site, temos que "quebrar" ele na nossa
-cabeça, temos três partes. O Header/Home/About/Services/Contact/Footer
-(colocar uma foto ilustrativa)
+Esse repositório tem como finalidade te dar um guia de estudos de css em 30 dias, aqui tem projetos bonitos (para você dar um UP no seu portifólio😉) e simples para que você só use um dia para desenvolvê-los.
 
-primeiro nós vamos colocar uma tag header, com o id de header
-<header id="header">
-    
-</header>
+## Dia 1 - Botões 
+![image](https://user-images.githubusercontent.com/74930052/149359758-700dcf23-8fa3-4027-b28b-52037c0ccec1.png)
 
-depois vamos colocar um nav (colocar o porque do que colocar nav
-com a class container (class, colocamos quando sabemos vamos colocar
-outra coisa))
-<header id="header">
-    <nav class="container">
-    
-    </nav>
-</header>
+### [👩🏽‍💻 Código]()
+### [🧾 Tutorial escrito - em breve]()
+### [💻 Tutorial em vídeo - em breve]()
 
+## Dia 2 - Menu
+![4-side-navigation-gif](https://user-images.githubusercontent.com/74930052/149625302-75cc7f93-87b5-40e5-8eba-976efb301b18.gif)
 
-<a class="logo" href="#">delivery<span>book</span>.</a>
-        <!-- menu -->
-        <div class="menu">
-          <ul class="grid">
-            <li><a class="title" href="#home">Início</a></li> 
-            <li><a class="title" href="#about">Sobre</a></li>
-            <li><a class="title" href="#services">Serviços</a></li>
-            <!-- <li><a class="title" href="#testimonials">Depoimentos</a></li> -->
-            <li><a class="title" href="#contact">Contato</a></li>
-          </ul>
-        </div>
-        <!-- /menu -->
-        <div class="toggle icon-menu"></div>
-        <div class="toggle icon-close"></div>
+### [👩🏽‍💻 Código]()
+### [🧾 Tutorial escrito - em breve]()
+### [💻 Tutorial em vídeo - em breve]()
 
+## Dia 3
+![05-social-media-gif](https://user-images.githubusercontent.com/74930052/149625668-6e89255a-01f3-434d-a6b8-7d70b0f8ea93.gif)
 
-Bônus: seta/dark
+### [👩🏽‍💻 Código]()
+### [🧾 Tutorial escrito - em breve]()
+### [💻 Tutorial em vídeo - em breve]()
+
+## 🦸🏽‍♀️ Seja um dos contribuidores
+Quer fazer parte desse projeto? Clique [AQUI]() e saiba como contribuir!
