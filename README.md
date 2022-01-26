@@ -4,7 +4,7 @@ Esse repositório tem como finalidade te dar um guia de estudos de css em 05 dia
 
 ## Dia 1 - Home
 ### Hoje é dia de fazer a capa do meu portifólio:
-![image](https://user-images.githubusercontent.com/74930052/149359758-700dcf23-8fa3-4027-b28b-52037c0ccec1.png)
+![image](https://user-images.githubusercontent.com/74930052/151196836-7f120ca1-83e6-4679-987c-a47384ee55d7.png)
 
 ### [👩🏽‍💻 Código]()
 ### [🧾 Tutorial escrito - em breve]()
