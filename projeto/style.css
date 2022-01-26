@@ -15,6 +15,13 @@
     --white2: #fff;
 }
 
+.dark {
+    --black: #fff;
+    --black2: #444;
+    --white: #333;
+    --white2: #444;
+}
+
 body {
     overflow-x: hidden;
 }
@@ -37,6 +44,10 @@ body {
 
     overflow: hidden;
     transition: width 0.5s, left 0.5s;
+}
+
+.dark .navigation {
+    border-right: 1px solid rgba(0, 0, 0, 0.05);
 }
 
 .navigation.active {
@@ -110,6 +121,10 @@ body {
     z-index: 10000;
 
     transition: width 0.5s, left 0.5s;
+}
+
+.dark .main .topbar {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 
 .main .topbar.active {
@@ -187,6 +202,10 @@ h3 {
 
 p {
     color: #777;
+}
+
+.dark p {
+    color: var(--black);
 }
 
 .btn {
@@ -511,6 +530,52 @@ p {
     bottom: 0;
     padding: 10px 40px;
     text-align: center;
+}
+
+/* Dark */
+.themeSwitch {
+    position: absolute;
+    bottom: 20px;
+    left: 40px;
+    width: 30px;
+    height: 30px;
+    background: var(--black);
+
+    color: var(--white);
+
+    cursor: pointer;
+    border-radius: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.themeSwitch::before {
+    content: '\f186';
+    font-family: fontAwesome;
+}
+
+.dark .themeSwitch::before {
+    content: '\f185';
+    font-family: fontAwesome;
+}
+
+.themeSwitch::after {
+    content: 'Switch to Dark Mode';
+    position: absolute;
+    left: 40px;
+    font-size: 0.7em;
+
+    color: var(--black);
+    white-space: nowrap;
+    font-weight: 300;
+    letter-spacing: 1px;
+    pointer-events: none;
+}
+
+.dark .themeSwitch::after {
+    content: 'Switch to Light Mode';
 }
 
 /* Responsivo */
