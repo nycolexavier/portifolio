@@ -1,0 +1,1 @@
+Esse repositório serve para ser como um guia, primeiro vamos precisar ver o 
